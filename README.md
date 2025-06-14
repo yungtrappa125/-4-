@@ -19,7 +19,7 @@
 ## Размещение
 
 Приложение размещено на [GitHub Pages]
-
+ https://yungtrappa125.github.io/-4-/
 ## Технологии
 
 - HTML
